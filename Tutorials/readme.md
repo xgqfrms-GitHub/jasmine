@@ -4,7 +4,7 @@
 
 
 
-[https://github.com/xgqfrms/xgqfrms/tree/gh-pages/JavaScript%20Testing](https://github.com/xgqfrms/xgqfrms/tree/gh-pages/JavaScript%20Testing
+[https://github.com/xgqfrms/xgqfrms/tree/gh-pages/JavaScript Testing](https://github.com/xgqfrms/xgqfrms/tree/gh-pages/JavaScript%20Testing)
 
 
 Jasmine 简介  
