@@ -4,6 +4,8 @@
 
 
 
+[https://github.com/xgqfrms/xgqfrms/tree/gh-pages/JavaScript%20Testing](https://github.com/xgqfrms/xgqfrms/tree/gh-pages/JavaScript%20Testing
+
 
 Jasmine 简介  
 使用以下命令为课程的开始   
