@@ -1,5 +1,10 @@
 # Jasmine
 
+[Jasmine 2.5 docs ](http://jasmine.github.io/2.5/introduction)
+
+
+
+
 Jasmine 简介  
 使用以下命令为课程的开始   
 [克隆资源库：](https://github.com/udacity/ud549) 
